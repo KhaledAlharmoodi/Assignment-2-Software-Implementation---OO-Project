@@ -439,7 +439,7 @@ print("Tours:", catalog.get_tours())
 print("Events:", catalog.get_events())
 print("Artifacts:", catalog.get_artifacts())
 
-# Define classes and functions from your provided code...
+
 
 def guest_actions():
     print("Welcome, Guest!")
